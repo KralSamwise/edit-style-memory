@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "format": "talking-head-vertical",
+  "reference_count": 3,
+  "source_ids": [
+    "fixture://synthetic-1",
+    "fixture://synthetic-2",
+    "fixture://synthetic-3"
+  ],
+  "metrics": {
+    "shot_median_sec": {
+      "median": 5.0,
+      "min": 4.0,
+      "max": 6,
+      "reference_count": 3
+    },
+    "cuts_per_minute": {
+      "median": 10.0,
+      "min": 8.0,
+      "max": 14.0,
+      "reference_count": 3
+    },
+    "pause_median_sec": {
+      "median": 0.5,
+      "min": 0.5,
+      "max": 0.5,
+      "reference_count": 3
+    },
+    "caption_y": {
+      "median": 0.76,
+      "min": 0.75,
+      "max": 0.78,
+      "reference_count": 3
+    }
+  },
+  "status": "observations-only",
+  "limitations": [
+    "Describes this sample; does not prove causes of engagement.",
+    "Not a creator clone. No identity, assets, or automatic cut settings are copied."
+  ]
+}

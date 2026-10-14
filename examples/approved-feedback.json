@@ -1,0 +1,13 @@
+{
+  "id": "demo-review-001",
+  "scope": {
+    "project": "demo-brand",
+    "format": "talking-head-vertical"
+  },
+  "approved": true,
+  "evidence": "Synthetic example: reviewer explicitly requested lower captions and fewer words.",
+  "values": {
+    "caption_y": 0.78,
+    "caption_max_words": 5
+  }
+}

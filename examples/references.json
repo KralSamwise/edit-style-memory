@@ -1,0 +1,63 @@
+[
+  {
+    "id": "demo-1",
+    "format": "talking-head-vertical",
+    "duration_sec": 30,
+    "cut_times_sec": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "pause_durations_sec": [
+      0.3,
+      0.5,
+      0.7
+    ],
+    "caption_y": 0.75,
+    "reviewed": true,
+    "source_url": "fixture://synthetic-1"
+  },
+  {
+    "id": "demo-2",
+    "format": "talking-head-vertical",
+    "duration_sec": 30,
+    "cut_times_sec": [
+      6,
+      12,
+      18,
+      24
+    ],
+    "pause_durations_sec": [
+      0.3,
+      0.5,
+      0.7
+    ],
+    "caption_y": 0.78,
+    "reviewed": true,
+    "source_url": "fixture://synthetic-2"
+  },
+  {
+    "id": "demo-3",
+    "format": "talking-head-vertical",
+    "duration_sec": 30,
+    "cut_times_sec": [
+      4,
+      8,
+      12,
+      16,
+      20,
+      24,
+      28
+    ],
+    "pause_durations_sec": [
+      0.3,
+      0.5,
+      0.7
+    ],
+    "caption_y": 0.76,
+    "reviewed": true,
+    "source_url": "fixture://synthetic-3"
+  }
+]
